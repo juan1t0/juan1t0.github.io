@@ -190,7 +190,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #180588;}
     align-items: center;
     justify-content: center;
     position:relative;
-    background:url(../images/about/welcome-banner.jpg)no-repeat;
+    background:url(../images/about/banner1.gif)no-repeat;
     background-size:cover;
     background-position: center;
     height:890px;
@@ -200,7 +200,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #180588;}
     content: " ";
     top:0;
     left:0;
-    background:rgba(120,136,152,.65);
+    background:rgba(120,136,152,.15);
     width:100%;
     height:100%;
 }
