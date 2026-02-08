@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'></a>. Ph.D. Student
+subtitle: <a href='#'></a>Ph.D. Student
 
 profile:
   align: right
