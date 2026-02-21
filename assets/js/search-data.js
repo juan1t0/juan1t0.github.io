@@ -409,24 +409,24 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-spatiotemporal-forecasting-with-llms-and-knowledge-graph-reasoning",
+          title: 'Spatiotemporal Forecasting with LLMs and Knowledge Graph Reasoning',
+          description: "Ongoing project on combining foundation models with graph reasoning for spatiotemporal prediction.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-graph-based-deep-learning-for-spatiotemporal-forecasting",
+          title: 'Graph-based Deep Learning for Spatiotemporal Forecasting',
+          description: "Geometric and topological deep learning for node-level forecasting in spatiotemporal graphs.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-visual-analytics-for-spatiotemporal-anomaly-explanation",
+          title: 'Visual Analytics for Spatiotemporal Anomaly Explanation',
+          description: "Interactive system to detect and explain anomalies with STARMA, d3.js, and contextual event signals.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-rutas-multimodal-emotion-understanding-for-human-robot-interaction",
+          title: 'RUTAS - Multimodal Emotion Understanding for Human-Robot Interaction',
+          description: "Consolidated project line combining pose estimation, multimodal fusion, and adaptive emotion-aware robot behavior.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
