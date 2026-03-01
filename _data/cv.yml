@@ -4,7 +4,7 @@ cv:
   email: jherediaparillo@gmail.com
   location: Rio de Janeiro, Brazil
   image: ""
-  summary: Researcher working on spatiotemporal forecasting, visual analytics, and explainable AI with graph-based deep learning and LLM-assisted reasoning.
+  # summary: Researcher working on spatiotemporal forecasting, visual analytics, and explainable AI with graph-based deep learning and LLM-assisted reasoning.
 
   social_networks:
     - network: GitHub
@@ -70,38 +70,38 @@ cv:
           - Conducted pre-professional research in computer vision.
           - Developed image-based emotion recognition pipelines using machine and deep learning methods.
 
-    Research Projects:
-      - name: Spatiotemporal Forecasting with LLMs and Knowledge Graph Reasoning
-        start_date: 2025-07
-        end_date: present
-        highlights:
-          - Conducting literature review on spatiotemporal forecasting, LLM integration, and knowledge graphs.
-          - Collecting, preprocessing, and curating multi-source datasets.
+    # Research Projects:
+    #   - name: Spatiotemporal Forecasting with LLMs and Knowledge Graph Reasoning
+    #     start_date: 2025-07
+    #     end_date: present
+    #     highlights:
+    #       - Conducting literature review on spatiotemporal forecasting, LLM integration, and knowledge graphs.
+    #       - Collecting, preprocessing, and curating multi-source datasets.
 
-      - name: Visual Analytics System for Exploring and Explaining Spatiotemporal Anomalies
-        start_date: 2025-02
-        end_date: 2025-08
-        highlights:
-          - Article accepted at SIBGRAPI 2025.
-          - Modeled crime data as a spatiotemporal graph and applied STARMA for anomaly detection.
-          - Designed and implemented an interactive visualization system with d3.js.
-          - Integrated LLM-based web search to generate contextual explanations from external events.
+    #   - name: Visual Analytics System for Exploring and Explaining Spatiotemporal Anomalies
+    #     start_date: 2025-02
+    #     end_date: 2025-08
+    #     highlights:
+    #       - Article accepted at SIBGRAPI 2025.
+    #       - Modeled crime data as a spatiotemporal graph and applied STARMA for anomaly detection.
+    #       - Designed and implemented an interactive visualization system with d3.js.
+    #       - Integrated LLM-based web search to generate contextual explanations from external events.
 
-      - name: Graph-based Deep Learning for Spatiotemporal Forecasting
-        start_date: 2023-07
-        end_date: present
-        highlights:
-          - Applied geometric deep learning and state-of-the-art models for node-level spatiotemporal forecasting.
-          - Achieved over 90% overall accuracy while identifying persistent sparse-hotspot limitations.
-          - Exploring topological deep learning extensions with hypergraphs and multi-resolution architectures.
+    #   - name: Graph-based Deep Learning for Spatiotemporal Forecasting
+    #     start_date: 2023-07
+    #     end_date: present
+    #     highlights:
+    #       - Applied geometric deep learning and state-of-the-art models for node-level spatiotemporal forecasting.
+    #       - Achieved over 90% overall accuracy while identifying persistent sparse-hotspot limitations.
+    #       - Exploring topological deep learning extensions with hypergraphs and multi-resolution architectures.
 
-      - name: Participation in VAST Challenge (Two Tasks)
-        start_date: 2024-05
-        end_date: 2024-10
-        highlights:
-          - Final project in graduate Visual Data Analysis course.
-          - Awarded the Strong Data Enrichment Award.
-          - Built visual systems to explore bias and anomalies in fishing knowledge graphs.
+    #   - name: Participation in VAST Challenge (Two Tasks)
+    #     start_date: 2024-05
+    #     end_date: 2024-10
+    #     highlights:
+    #       - Final project in graduate Visual Data Analysis course.
+    #       - Awarded the Strong Data Enrichment Award.
+    #       - Built visual systems to explore bias and anomalies in fishing knowledge graphs.
 
     Publications:
       - title: Adaptive multimodal emotion detection architecture for social robots
@@ -165,18 +165,18 @@ cv:
         publisher: IEEE VAST Challenge
         releaseDate: 2024
 
-    Theses and Reports:
-      - title: A multi-modal emotion recogniser based on the integration of multiple fusion methods
-        authors:
-          - Juanpablo Andrew Heredia Parillo
-        publisher: BSc Thesis, Catholic University San Pablo
-        releaseDate: 2021
+    # Theses and Reports:
+    #   - title: A multi-modal emotion recogniser based on the integration of multiple fusion methods
+    #     authors:
+    #       - Juanpablo Andrew Heredia Parillo
+    #     publisher: BSc Thesis, Catholic University San Pablo
+    #     releaseDate: 2021
 
-      - title: An automatic emotion recognition system that uses the human body posture
-        authors:
-          - Juanpablo Andrew Heredia Parillo
-        publisher: Undergraduate Research Report, Catholic University San Pablo
-        releaseDate: 2021
+    #   - title: An automatic emotion recognition system that uses the human body posture
+    #     authors:
+    #       - Juanpablo Andrew Heredia Parillo
+    #     publisher: Undergraduate Research Report, Catholic University San Pablo
+    #     releaseDate: 2021
 
     Awards and Scholarships:
       - title: Best Paper Award
@@ -238,36 +238,36 @@ cv:
       - name: Italian
         summary: Elementary
 
-    Volunteering:
-      - company: ICEC 2019
-        position: Volunteer
-        location: Arequipa, Peru
-        start_date: 2019-11
-        end_date: 2019-11
-        summary: Volunteer at the 18th International Conference on Entertainment Computing.
+    # Volunteering:
+    #   - company: ICEC 2019
+    #     position: Volunteer
+    #     location: Arequipa, Peru
+    #     start_date: 2019-11
+    #     end_date: 2019-11
+    #     summary: Volunteer at the 18th International Conference on Entertainment Computing.
 
-      - company: JCSG 2019
-        position: Volunteer
-        location: Arequipa, Peru
-        start_date: 2019-11
-        end_date: 2019-11
-        summary: Volunteer at the Joint Conference on Serious Games.
+    #   - company: JCSG 2019
+    #     position: Volunteer
+    #     location: Arequipa, Peru
+    #     start_date: 2019-11
+    #     end_date: 2019-11
+    #     summary: Volunteer at the Joint Conference on Serious Games.
 
-    Events, Schools, and Workshops:
-      - company: Machine Learning Summer School
-        position: Attendee
-        location: Arequipa, Peru
-        start_date: 2025-08
-        end_date: 2025-08
+    # Events, Schools, and Workshops:
+    #   - company: Machine Learning Summer School
+    #     position: Attendee
+    #     location: Arequipa, Peru
+    #     start_date: 2025-08
+    #     end_date: 2025-08
 
-      - company: Summer School of Data Science
-        position: Attendee
-        location: Rio de Janeiro, Brazil
-        start_date: 2025-01
-        end_date: 2025-01
+    #   - company: Summer School of Data Science
+    #     position: Attendee
+    #     location: Rio de Janeiro, Brazil
+    #     start_date: 2025-01
+    #     end_date: 2025-01
 
-      - company: ACM Conference on Fairness, Accountability, and Transparency (FAccT)
-        position: Attendee
-        location: Rio de Janeiro, Brazil
-        start_date: 2024-06
-        end_date: 2024-06
+    #   - company: ACM Conference on Fairness, Accountability, and Transparency (FAccT)
+    #     position: Attendee
+    #     location: Rio de Janeiro, Brazil
+    #     start_date: 2024-06
+    #     end_date: 2024-06
