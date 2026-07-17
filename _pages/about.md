@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'></a>Ph.D. Student
+subtitle: <a href='#'></a>Ph.D. Candidate
 
 profile:
   align: right
